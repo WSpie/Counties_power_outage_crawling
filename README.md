@@ -1,7 +1,7 @@
 # Counties_power_outage_crawling
 A simple program scraping the data from https://poweroutage.us/
 
-Run the code in the terminal (the defaukt state is Florida)
+Run the code in the terminal (the default state is Florida)
 ```bash script
 python main.py --state texas
 ```
